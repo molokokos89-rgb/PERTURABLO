@@ -1,0 +1,50 @@
+name: Proxy Sync and Build
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Install sing-box
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl tar
+          LATEST_VERSION=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | jq -r .tag_name | sed 's/^v//')
+          ARCH=$(dpkg --print-architecture)
+          curl -L -o sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${LATEST_VERSION}/sing-box-${LATEST_VERSION}-linux-${ARCH}.tar.gz"
+          tar -xzf sing-box.tar.gz
+          sudo mv sing-box-${LATEST_VERSION}-linux-${ARCH}/sing-box /usr/local/bin/
+          sing-box version
+
+      - name: Build
+        run: python build.py
+
+      - name: Commit
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add proxy.txt ru_proxies.txt reject_rules.json my_rules_proxy.json My_rules_RUS.json *.srs || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "auto-update proxies and rules"
+            git push
+          fi
