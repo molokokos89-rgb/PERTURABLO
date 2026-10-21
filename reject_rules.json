@@ -1,9 +1,1 @@
-{
- "version": 3,
- "rules": [
- {
- "domain_suffix": [],
- "ip_cidr": []
- }
- ]
-}
+{"version":1,"rules":[{"domain_suffix":["2mdn.net","aax-eu.amazon-adsystem.com","aax.amazon-adsystem.com","adcolony.com","adform.net","adfox.ru","adjust.com","adnxs.com","adriver.ru","ads.sberbank.ru","ads.yahoo.com","adsafeprotected.com","adsrvr.org","adsterra.com","adtech.yahooinc.com","advertising.yahoo.com","amazon-adsystem.com","amplitude.com","api16-access-wf-sg.pangle-b.io","app-analytics-services.com","app-measurement.com","applovin.com","appsflyer.com","begun.ru","bidswitch.net","branch.io","bugsnag.com","c.amazon-adsystem.com","casalemedia.com","chartbeat.com","chartboost.com","client.aps.amazon-adsystem.com","config.aps.amazon-adsystem.com","contextweb.com","counter.yadro.ru","crashlytics.com","crazyegg.com","criteo.com","direct.adsrvr.org","doubleclick.net","exoclick.com","fabric.io","fullstory.com","google-analytics.com","googleadservices.com","googlesyndication.com","googletagmanager.com","googletagservices.com","gum.criteo.com","hbopenbid.pubmatic.com","hotjar.com","htlb.casalemedia.com","inmobi.com","integral-ads.com","ironsource.com","juicyads.com","kochava.com","match.adsrvr.org","mgid.com","mixpanel.com","moatads.com","mopub.com","mouseflow.com","mytarget.ru","newrelic.com","nr-data.net","openads-cdn.adsrvr.org","openads.adsrvr.org","openx.net","outbrain.com","pagead2.googlesyndication.com","pangle.io","pangleglobal.com","propellerads.com","pubmatic.com","quantserve.com","rtb.openx.net","rubiconproject.com","sb.scorecardresearch.com","scorecardresearch.com","sdkopmetrics-asia.dsp-api.moloco.com","sdkopmetrics-eu.dsp-api.moloco.com","securepubads.g.doubleclick.net","segment.com","segment.io","sentry.io","sharethrough.com","smartadserver.com","spotxchange.com","stats.g.doubleclick.net","supersonicads.com","taboola.com","tapjoy.com","teads.tv","tns-counter.ru","trafficjunky.com","unityads.unity3d.com","vungle.com","web-banner.ads.aps.amazon-adsystem.com","www.googletagmanager.com","yieldmo.com"]}]}
