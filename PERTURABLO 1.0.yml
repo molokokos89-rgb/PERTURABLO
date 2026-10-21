@@ -1,5 +1,5 @@
 # PERTURABLO — под Karing: ноды + rule-providers с path/interval (кэш)
-# DNS в YAML Karing почти не применяет — продублируй в Настройках → DNS
+# DNS в YAML Karing почти не применяет — продублируй в Настройки → DNS
 
 port: 0
 socks-port: 0
@@ -88,9 +88,9 @@ proxy-groups:
  - main-sub
  - PROXY
 
-# --- ПРАВИЛА С КЭШИРОВАНИЕМ (path + interval обязательны для Karing) ---
+# --- ПРАВИЛА С КЭШЕМ (path + interval обязательны для Karing) ---
 # behavior: domain + текстовые списки Loyalsoldier — Karing их нормально ест и кэширует.
-# Свои JSON (сингл-бокс) с behavior: domain часто игнорируются → поэтому основа Clash domain.
+# Свои JSON (sing-box) с behavior: domain часто игнорируются → поэтому основа Clash domain.
 rule-providers:
  reject:
  type: http
@@ -127,7 +127,7 @@ rule-providers:
  path: ./rules/telegramcidr.txt
  interval: 43200
 
- # Твои собранные правила (2.1). Если Karing их не подхватит — все равно останутся выше Loyalsoldier.
+ # Твои собранные правила (2.1). Если Karing их не подхватит — всё равно остаются Loyalsoldier выше.
  my-reject:
  type: http
  behavior: classical
@@ -139,7 +139,7 @@ rule-providers:
  type: http
  behavior: classical
  url: "https://raw.githubusercontent.com/molokokos89-rgb/PERTURABLO/main/my_rules_proxy.json"
- путь: ./rules/my_proxy.json
+ path: ./rules/my_proxy.json
  interval: 43200
 
  my-direct:
@@ -175,13 +175,13 @@ rules:
  - DOMAIN-SUFFIX,sbp.ru,DIRECT
 
  # кэшируемые наборы
- - RULE-SET,my-reject,ОТКЛОНИТЬ
- - RULE-SET,reject,ОТКЛОНИТЬ
- - RULE-SET,my-proxy,ПРОКСИ
- - RULE-SET,proxy,ПРОКСИ
- - RULE-SET,gfw,ПРОКСИ
- - RULE-SET,my-direct,НАПРЯМУЮ
- - RULE-SET,direct,НАПРЯМУЮ
+ - RULE-SET,my-reject,REJECT
+ - RULE-SET,reject,REJECT
+ - RULE-SET,my-proxy,PROXY
+ - RULE-SET,proxy,PROXY
+ - RULE-SET,gfw,PROXY
+ - RULE-SET,my-direct,DIRECT
+ - RULE-SET,direct,DIRECT
 
  # РФ-зоны (без опасного DOMAIN-SUFFIX,org)
  - DOMAIN-SUFFIX,xn--p1ai,DIRECT
