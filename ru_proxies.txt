@@ -1,5 +1,5 @@
 hy2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443?sni=store.blog-forme.ru#ProxyRift%20207
-hy2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443/?sni=slopllex.app#%40nekopingbot_7334
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=hy.quattro-tech.ru&obfs=&obfs-password=#@V2ray_Collector
 hysteria2://46785352-db89-4839-8079-d4c69ad87996@80.90.189.93:443?sni=rugiig.cryposikel.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 hysteria2://46785352-db89-4839-8079-d4c69ad87996@gl3.cryposikel.ru:443?sni=gl3.cryposikel.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
 hysteria2://46785352-db89-4839-8079-d4c69ad87996@pl4.cryposikel.ru:443?sni=pl4.cryposikel.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
@@ -11,6 +11,7 @@ hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@video.blog-forme.ru:443?hop_int
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?security=tls&fp=chrome&alpn=h3#@V2ray_Collector
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#🇳🇱
 hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443?insecure=1&sni=hys34.wba-pn.ru#🇳🇱
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go1.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#%F0%9F%87%B5%F0%9F%87%B1PL_29%7C1.2MB%2Fs%7CA004-260618%2001
 hysteria2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?sni=scrap.halyvanedorogo.ru#@V2ray_Collector
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de4.shvpn.ru:4443?sni=de4.shvpn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de5.shvpn.ru:4443?sni=de5.shvpn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
@@ -19,3 +20,5 @@ hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@pl2.shvpn.ru:4443?sni=pl2.shvpn
 hysteria2://d5e2093f-7a12-4b93-9ace-bd95dc8de71a@nl4-gkivm5.vpvr4ib84nuv6hdkt.ru:3006?sni=nl4-gkivm5.vpvr4ib84nuv6hdkt.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru#%F0%9F%87%A9%F0%9F%87%AADE_98%7C5.7MB%2Fs%7CM003-260806
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443?insecure=1&sni=cabinet.wwwinternetvideo.click#%F0%9F%87%AA%F0%9F%87%AAEE_15%7C635KB%2Fs%7CA001-260618%2001
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@144.31.93.173:443/?insecure=1&sni=germany1.h2corp.local#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20890456
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@159.194.251.76:8388#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AASE-54
