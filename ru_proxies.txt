@@ -1,5 +1,5 @@
 hy2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru#ProxyRift%20336
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1#0097
+hysteria2://4536b7a7-eb90-42ce-b45d-5190dfc83701@185.231.204.193:443?sni=rowan.sanriodevgroup.org#🇪🇸 Испания 45 Cloudflare, Inc.%20t.me%2Frjsxrd
 hysteria2://653m8mmiy7048p0f@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#[250ms
 hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@blogs.blog-forme.ru:443?sni=blogs.blog-forme.ru&hop_interval=10#%F0%9F%94%92Pr0xySh4rk%F0%9F%A6%88%5BHYSTERIA2%5D%5B37%5D%5B%F0%9F%87%A9%F0%9F%87%AA%5D%5B50.2Mbps%5D%5B1069ms%5D
 hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443/#@V2ray_Collector
@@ -8,10 +8,10 @@ hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#🇳�
 hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443?insecure=1&sni=hys34.wba-pn.ru#🇳🇱
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443?sni=hy2-latvia2.unlimited-access.ru#🇱🇻
 hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?sni=hys26.wba-pn.ru#🇳🇱
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443?insecure=1&sni=admin.wwwinternetvideo.click#%F0%9F%87%B5%F0%9F%87%B1PL_24%7C1.3MB%2Fs%7CA001-260618%2001
 hysteria2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?sni=127.0.0.1#%F0%9F%87%B5%F0%9F%87%B1PL_21%7C1.0MB%2Fs%7CA004-260618%20%5B0e5b2b9b5f49%5D
 hysteria2://oCYFcbOo8s@hys22.wba-pn.ru:443?sni=hys22.wba-pn.ru#🇳🇱
 hysteria2://ripa841juk7gwn4t@94.228.173.164:10005?sni=vpn.c0d1xdev.xyz&obfs=salamander&obfs-password=gacgp8rqyvgtlji8#🇫🇮 Финляндия 31 NODE HOST LIMITED%20t.me%2Frjsxrd
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@144.31.93.173:443/?insecure=1&sni=germany1.h2corp.local#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20320002
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#4Kian-687f3b5cc2
 hysteria2://wrSuBorIlf@hys9.wba-pn.ru:443?insecure=1#🇳🇱
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443/?type=grpc&encryption=none&flow=&serviceName=grpc-90&sni=max.ru&security=reality&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%2C%20Dublin%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@159.194.251.76:8388#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AASE-53
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?host=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
