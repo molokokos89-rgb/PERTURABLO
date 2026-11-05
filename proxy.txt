@@ -1,35 +1,15 @@
-hysteria2://948b48e5-a202-4770-8552-f35a12dac378@172.245.6.155:18687?sni=www.bing.com&alpn=h3&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Ashburn%20%7C%20%5BBL%5D
+hysteria2://8dOHZ13sx33R1%2FPQbhTK%2Fw%3D%3D@34.24.25.1:443?sni=bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20North%20Charleston%20%7C%20%5BBL%5D
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?insecure=1&sni=vpn-hk-004.fastervpn.world#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Fo%20Tan%20%7C%20%5BBL%5D
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net&alpn=h3#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?insecure=1&sni=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTWlua2xlciB8IFtCTF0iLCJhZGQiOiJyaWI5anhheW9xamduMmt3LnYuM2Rucy52aXAiLCJwb3J0IjoiNDQzIiwiaWQiOiI5YjMxNDkwZC0xOTBlLTRlZjEtYWYwYS03Y2NhYjNlN2MzYjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyaWI5anhheW9xamduMmt3LnYuM2Rucy52aXAiLCJmcCI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwiYWRkIjoiNDMuMTczLjY3LjQyIiwicG9ydCI6IjQ3MTE2IiwiaWQiOiJmYzMzNDdlMi0wMDdkLTRjYWQtZmUyOC0zZDgwNjcyYzNjY2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFtCTF0iLCJhZGQiOiIzOS4xMDguMTEzLjEyNyIsInBvcnQiOiIxMDA4NiIsImlkIjoiNGZjNTQzZDUtMjNjZS00NTU2LWFlMmItMDE2ODVlZGQ0Mzk3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0?fp=ios
-vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGUuemhvdS15dWZhbi5jb20iLCJpZCI6ImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ep8J+HqiBHZXJtYW55LCBEw7xzc2VsZG9yZiB8IPCfjJAgfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6ImRlLnpob3UteXVmYW4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9?fp=ios
-vmess://eyJhZGQiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZDJiNjdlNDgtYzM0MS00N2JhLThjYWEtNTY1OGRmNjkzYWM0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4ep8J+HqiBHZXJtYW55LCBOdXJlbWJlcmcgfCDwn4yQIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vless://727a9178-d7f0-4142-8205-b0d19959ded0@130.49.177.193:443?security=reality&flow=xtls-rprx-vision&pbk=DCpi9-1rSXxBnEIAQ9U3mTqHivk7vHJRV_T2pWw5vCc&sid=681fc2dd643bc2f3&sni=de-2.ffpn.pro&type=tcp&headerType=none&host=de-2.ffpn.pro&path=%2F&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://c86fb9d6-8bdb-48ea-b78f-4409e02234ce@85.31.148.74:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=IyUvo6owCe4Zfr8aIVdtweSNHQSpSyiO-OKsRDJ9BBs&sid=a111111111111111&sni=calendar.salphetka.ru&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Bidart%20%7C%20%5BBL%5D
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@de3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de3.japancase.site&pbk=iaJ8vIpfWkkzA-Tegc_wIQSF7DWKm2yTYCd3kvaGXig&sid=d9d9e325a7f069e2&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://T9mkgeXbx77OrcXCOlaHAwcS@23.95.115.116:8443/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSwgTnVyZW1iZXJnIHwg8J+MkCB8IFtCTF0iLCJhZGQiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJwb3J0IjoiODA4MCIsImlkIjoiZDJiNjdlNDgtYzM0MS00N2JhLThjYWEtNTY1OGRmNjkzYWM0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiLyIsInNuaSI6ImdldG5ldC5zZXJ2ZXJzdWJhc2xpLnRvcCIsImZwIjoiY2hyb21lIiwiYWxwbiI6Imh0dHAvMS4xIiwiYWxsb3dJbnNlY3VyZSI6IjEiLCJpbnNlY3VyZSI6IjEiLCJzY3kiOiJhdXRvIiwiaG9zdCI6IiJ9
+vless://8150f216-7d97-4629-878c-10e5ed16fcb9@67.216.204.136:39811?encryption=none&flow=xtls-rprx-vision&pbk=hoXkq6HpOro7tm55ROufB6wACgEXN_6nzBd-78a8Fkk&security=reality&sid=6ba85179e30d4fc2&sni=academy.nvidia.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
+vless://94042dd1-d32a-4797-b88c-dc48459e2b34@100497t.de18.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=100497t.de18.h1clayd.click&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&sid=5be240e45d3c445c&spx=%2F&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://94042dd1-d32a-4797-b88c-dc48459e2b34@aaf9a7x.de18.h1clayd.click:443?encryption=none&type=xhttp&security=reality&sni=aaf9a7x.de18.h1clayd.click&pbk=JxuqY729RxyPX7D1cZigwHUYbkSPIx2H7vNTcrj4VBs&sid=19a70eda3a2416cb&spx=%2F&path=%2F9e6c99f913ef&host=aaf9a7x.de18.h1clayd.click&mode=auto&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://94042dd1-d32a-4797-b88c-dc48459e2b34@ac3f32g.de18.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=ac3f32g.de18.h1clayd.click&pbk=cO2bNRZvYDit8UqQk_zc6BaSBA7LiLMSmMHTwjU531Q&sid=051e90ed3d657158&spx=%2F&serviceName=01ad85319ae3&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?security=reality&flow=xtls-rprx-vision&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&sid=e6d589857d1cec5e&sni=fr.golangwikito.cfd&type=tcp&headerType=none&host=fr.golangwikito.cfd&path=%2F&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@35.209.12.212:63691#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Council%20Bluffs%20%7C%20%5BBL%5D
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206ZDFyUEZPUDBWSGtLMjk2aUdETS9lZz09@23.175.201.177:63691#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Noord%29%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Noord%29%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Noord%29%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Noord%29%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Noord%29%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQW01X0wxNkJaWGg1NS1LdWdudnI5d2pjNkMxaDZnSg@95.182.98.143:1080#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Noord%29%20%7C%20%5BBL%5D
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Roosendaal%20%7C%20%5BBL%5D
-ss://YWVzLTEyOC1nY206M2I2ZThkZDA1Y2JlNmRiYjAxM2UxNzVjZGVjMjE0ZGM@64.42.181.100:12994#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Atlanta%20%7C%20%5BBL%5D
-ss://YWVzLTEyOC1nY206OTdiNDI1ZDYxZWUwZGJlNTg0NDllMzYxNGRhZTNlODk@64.20.53.126:17911#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.234:4652#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Seoul%20%28Namdaemunno%205%28o%29-ga%29%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M=@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1nY206ZDhfMDIxblhQOENaREg2a3VndkpzbVU0YXdUc2pNTGI@82.148.251.199:191#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
-ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Noord%29%20%7C%20%5BBL%5D
-ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Noord%29%20%7C%20%5BBL%5D
-ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Noord%29%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw@82.152.132.211:8044#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=google.com#97.%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%20hysteria2%20%C2%B7%20173ms%20%C2%B7%2027%D1%87
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@103.241.65.25:443?mport=22000-22999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%7C%20103.241.65.25%3A443
 hy2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr&path=%2f&allow_insecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-18
@@ -52,6 +32,7 @@ hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-passw
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🔒
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🔒
 hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#🔒
+hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444#0136
 hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com%2523%25e9%25a6%2583%25e5%259a%259f%25e9%25a6%2583%25e5%259a%25a2%257chk%257c%2540wxgqlfx%257c147#169.%20%F0%9F%87%AD%F0%9F%87%B0%20%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3%20%C2%B7%20hysteria2%20%C2%B7%20591ms%20%C2%B7%2027%D1%87
 hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#👉🆔@Goodbaye_filtering
 hy2://c8ed6cd1-6566-4f7a-819e-1c55b2b360c9@153.56.210.134:34121/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=9a33460c-b037-47aa-a606-d04211f4e0ec#07.%20%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%C2%B7%20hysteria2%20%C2%B7%20518ms%20%C2%B7%2027%D1%87
@@ -68,8 +49,6 @@ hysteria2://0zy7kb86chk9ktbn@dlwww.mymuic.ir:19883?security=tls&obfs=salamander&
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?sni=s559.ccgfw.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD-B46B5253
 hysteria2://123456@23.83.241.21:443?insecure=1&sni=bing.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-4773
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7KR_13%7C802KB%2Fs%7CR002-260618
-hysteria2://171a4d7a-a1f0-499c-9fc5-3915c8b1f47b@36.232.91.193:19310?sni=srv-l7o.yuetong.online&obfs=salamander&obfs-password=4mcqiPwfROfrKkIKx1WO32Va#🇭🇰 Гонконг 4 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://171a4d7a-a1f0-499c-9fc5-3915c8b1f47b@36.232.91.193:22700?sni=api-q5.yuetong.online&obfs=salamander&obfs-password=RCsFxWZG3IaIukDE3U9l3bIv#🇸🇬 Сингапур 17 LEASEWEB SINGAPORE PTE. LTD.%20t.me%2Frjsxrd
 hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3A98Va5kVHKW06htuFKRbjrX7rWPTNQI4Jlee5xTFNAW0@84.38.184.87:36116?sni=hu.lumacache.com&alpn=h3#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3AEKksNGKEBp8PXC1msSPh-Nfurs0VeCN0xPSnf1UsVH8@84.38.184.87:36118?sni=us2.lumacache.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3Acv_QNzenE8BtqjxU5H4mzZ7ki0M4jLW2DCs01wdD78Y@102.208.216.88:8443?sni=za2.lumacache.com&alpn=h3#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D
@@ -82,6 +61,7 @@ hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@a30d91ee-tmm5c0-ttx5yr-1j0y6.nw
 hysteria2://1d491f8c-ccaa-43e1-b62d-f255c7832e27@129.146.124.201:51000?insecure=1&sni=cn.cremedelamer.com#%E7%BE%8E%E5%9B%BD%20%E4%BA%9A%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%E5%87%A4%E5%87%B0%E5%9F%8EOracle%E4%BA%91%E8%AE%A1%E7%AE%97%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hysteria2://1r0d8slwbpg1iebe@129.153.77.162:8443?insecure=1&obfs=salamander&obfs-password=f7yrrbc9h6b1krnk&sni=www.apple.com#%C2%AE%EF%B8%8FSH%CE%9EN%E2%84%A2%E1%B4%A2%E1%B4%87%CA%80%E1%B4%8F%F0%9F%87%BA%F0%9F%87%B8T.me%2FShervini
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@fbe34f09-tmm5c0-trpvht-1ey07.los.hyhuawei.com:443?sni=fbe34f09-tmm5c0-trpvht-1ey07.los.hyhuawei.com#143.%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%20hysteria2%20%C2%B7%20218ms%20%C2%B7%2027%D1%87
+hysteria2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@64.32.13.230:443?sni=b774a499-tmm5c0-tphvvu-gacy.los.hyhuawei.com#🇺🇸 США 12 Sharktech%20t.me%2Frjsxrd
 hysteria2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@95358662-tmm5c0-tphvvu-gacy.hk3.hyhuawei.com:443#%40happ_tmn
 hysteria2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@b774a499-tmm5c0-tphvvu-gacy.los.hyhuawei.com:443?sni=b774a499-tmm5c0-tphvvu-gacy.los.hyhuawei.com#👉🆔@Goodbaye_filtering
 hysteria2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@d0f180c2-tmm5c0-tphvvu-gacy.nw4.hyhuawei.com:443?sni=d0f180c2-tmm5c0-tphvvu-gacy.nw4.hyhuawei.com#%40happ_tmn
@@ -130,7 +110,7 @@ hysteria2://40639730-e027-11ea-87ad-f23c913c8d2b@baf80640-tmm5c0-to0mym-z93q.nw4
 hysteria2://40639730-e027-11ea-87ad-f23c913c8d2b@e0064cf5-tmm5c0-to0mym-z93q.hk3.hyhuawei.com:443?insecure=1&security=tls&sni=e0064cf5-tmm5c0-to0mym-z93q.hk3.hyhuawei.com#👉🆔@Goodbaye_filtering
 hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@ddfd0b64-tmm5c0-u0aht1-1rz5s.nw4.hyhuawei.com:443?sni=ddfd0b64-tmm5c0-u0aht1-1rz5s.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@172.236.139.236:443?sni=0c8a39e2-tmkao0-tqsp0c-1imi4.sg7.hyhuawei.com#🇸🇬 Сингапур 7 Akamai Technologies, Inc.%20t.me%2Frjsxrd
-hysteria2://41d4f8b3-2a45-4531-a33b-938e2eebb939@oh.sbbz.tech:443?sni=oh.sbbz.tech&obfs=salamander&obfs-password=sbxbz19890604#%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%9A%80%40VPNine1
+hysteria2://41d4f8b3-2a45-4531-a33b-938e2eebb939@oh.sbbz.tech:443?sni=oh.sbbz.tech&obfs=salamander&obfs-password=sbxbz19890604#%E7%BE%8E%E5%9B%BD_110512197%20t.me%2Frjsxrd
 hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1
 hysteria2://4536b7a7-eb90-42ce-b45d-5190dfc83701@185.231.204.193:443?sni=rowan.sanriodevgroup.org#🇪🇸 Испания 45 Cloudflare, Inc.%20t.me%2Frjsxrd
 hysteria2://4536b7a7-eb90-42ce-b45d-5190dfc83701@185.231.204.81:443?sni=alder.sanriodevgroup.org#🇪🇸 Испания 46 Cloudflare, Inc.%20t.me%2Frjsxrd
@@ -140,7 +120,6 @@ hysteria2://4a52c165e81fa8fc@70.34.213.123:443/?insecure=1&obfs=salamander&obfs-
 hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443/?sni=clash2.deep-links.com#4Kian-522248086e
 hysteria2://4cbefb4d-328c-411d-bf76-780df1082df8@meow-berlin.nethcloud.top:443?sni=meow-berlin.nethcloud.top#4FreeIran-bd0269acd4
 hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com:443?sni=4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com#158.%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%20hysteria2%20%C2%B7%20230ms%20%C2%B7%2027%D1%87
-hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@64.32.13.230:443?sni=4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com#🇺🇸 США 16 Sharktech%20t.me%2Frjsxrd
 hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@e6b91583-tm96o0-tnhquc-1j0a4.hk3.hyhuawei.com:443?insecure=1&sni=e6b91583-tm96o0-tnhquc-1j0a4.hk3.hyhuawei.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-1393
 hysteria2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720?sni=bing.com&insecure=1#hysteria2-1887186463
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52052?security=tls&obfs=salamander&obfs-password=gfy85fok75ipi28z&insecure=0&sni=assets.gateway-stream.com#
@@ -162,7 +141,6 @@ hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@014dd758-tmm5c0-tpda83-1lkbs.sg
 hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@f452bbe9-tmm5c0-tpda83-1lkbs.los.hyhuawei.com:443?insecure=1&security=tls&sni=f452bbe9-tmm5c0-tpda83-1lkbs.los.hyhuawei.com#👉🆔@Goodbaye_filtering
 hysteria2://5a7cb309-4ce9-4f2a-b887-747f991e03da@45.88.12.120:443?sni=crt.onecloudstream.com
 hysteria2://5bc65313-6a35-4685-ba97-fe7784370c7b@138.2.74.42:60110?sni=www.bing.com&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B0
 hysteria2://5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b@03c584c0-tlsio0-tvvhcz-tl32.hk3.hyhuawei.com:443#%40happ_tmn
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?sni=rb.mangshe.xyz&insecure=1#hysteria2-1939845083
 hysteria2://5dc6fa05-a601-aba6-7761-ecde22d2b0fc@33632b49-tmm5c0-tonrmx-8n27.nw4.hyhuawei.com:443?sni=33632b49-tmm5c0-tonrmx-8n27.nw4.hyhuawei.com#%40happ_tmn
@@ -176,7 +154,7 @@ hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@191.217.211.161:20270?sni=pl1.s
 hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@dc5d989c-tmm5c0-tzxeoy-hns7.nw4.hyhuawei.com:443?sni=dc5d989c-tmm5c0-tzxeoy-hns7.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://69e41e64-a832-471a-b740-94577ca85520@217.60.73.56:443?sni=forshynewh.duckdns.org#🇫🇮 Финляндия 18 Intezio Worldwide Limited%20t.me%2Frjsxrd
 hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?security=tls&sni=forshynewh.duckdns.org#Iran
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@confiig_hub
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx
 hysteria2://6b2b1bda-572f-4ccd-8358-9db258691f41@193.23.200.227:443?sni=swedenservhost.stinpuls.com#🇸🇪 Швеция 8 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com:443?sni=ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com#189.%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%20hysteria2%20%C2%B7%20241ms%20%C2%B7%2027%D1%87
 hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@144.124.245.52:443?sni=store.blog-forme.ru#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-346
@@ -193,6 +171,7 @@ hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=s
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&alpn=h3&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com#
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52064?security=tls&obfs=salamander&alpn=h3&obfs-password=bs5yf8xwmyqafwy4&insecure=0&sni=assets.gateway-stream.com#
 hysteria2://78585441-c8b3-40fb-9b94-15edd312fdcf@107.172.16.232:44444?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:20000?sni=g.play2go.gay&obfs=salamander&obfs-password=-bgbhGhG9yC-MCAQ6pJCHuycKqC7y9V5gXw_mKv8qpE#🇨🇭 Швейцария 3 ROUTE 95 LLC%20t.me%2Frjsxrd
 hysteria2://7d43670b-6b08-45b9-8a24-8f3971abc132@153.76.194.118:8443?sni=finland.biznes.lol&alpn=h3#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-618
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@43.201.86.77:443?insecure=1&sni=www.bing.com&pinSHA256=89:61:86:FE:B2:0C:B7:40:31:87:A4:5F:F3:BD:5D:DC:8B:FB:DD:41:9D:77:9D:55:D7:86:18:9D:36:73:1A:69#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@47.128.227.243:443?insecure=1&sni=www.bing.com&pinSHA256=C1:FD:40:94:1F:91:9B:5C:78:96:24:40:97:F2:2D:9D:95:8E:62:5C:D9:58:B7:5F:34:CC:FA:42:18:1F:50:B2#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP
@@ -215,6 +194,7 @@ hysteria2://91e8215c-cc6a-4494-b52b-efd87836ef50@31.76.0.142:443?sni=media.embro
 hysteria2://91e8215c-cc6a-4494-b52b-efd87836ef50@89.169.12.60:443?sni=media.embrofree.org#🇩🇪 Германия 92 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://92bd8c68-6434-11ee-b644-f23c91cfbbc9@88f7008b-tmm5c0-tonrqx-1khwf.nw4.hyhuawei.com:443#%40happ_tmn
 hysteria2://92bf29cc-ee08-4c97-bf0b-b4dff41e5bd8@179.255.103.55:443?sni=n02.jinggai.online#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E5%B7%B4%E8%A5%BF_110505125%20t.me%2Frjsxrd
+hysteria2://948b48e5-a202-4770-8552-f35a12dac378@172.245.6.155:18687?sni=www.bing.com&alpn=h3&insecure=1#%F0%9F%91%89%F0%9F%86%94%40Goodbaye_filtering%0A%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%20%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%0A%C2%AE%EF%B8%8FHostPapa%0A%F0%9F%85%BF%EF%B8%8Fping%3A128ms%0A%E2%9A%A1UDP%20Fast-Path%20%7C%20HYSTERIA2%20IPv4
 hysteria2://94d40708-8273-11ea-8fc9-f23c913c8d2b@6d889de6-tly2o0-tn28ki-mv7m.nw4.hyhuawei.com:443?sni=6d889de6-tly2o0-tn28ki-mv7m.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#%F0%9F%87%AF%F0%9F%87%B5JP_15%7C721KB%2Fs%7CA004-260618
 hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C359KB%2Fs%7CR002-260618
@@ -279,20 +259,20 @@ hysteria2://Telegram-vpnjey@77.110.96.201:36264?insecure=1&alpn=h3&sni=se.vpnjey
 hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey
 hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@144.31.221.57:443/?insecure=1&sni=player.wwwinternetvideo.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20916536
 hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443/?insecure=1&sni=hopp-us.yyuyy.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20304880
-hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 57 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
+hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 51 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
 hysteria2://Vfh41h5Ms7jicoojBLusnRyp@56.10.178.52:50000?insecure=1&alpn=h3&sni=sg-transit-1.nebulacloud.win#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-196
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443/?insecure=1&sni=admin.wwwinternetvideo.click
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443?insecure=1&sni=admin.wwwinternetvideo.click#%F0%9F%87%B5%F0%9F%87%B1PL_24%7C1.3MB%2Fs%7CA001-260618%2001
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443#4Mohsen-26a66f7d1a
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#4Jadi-1105ce8791
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go1.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#%F0%9F%87%B5%F0%9F%87%B1PL_29%7C1.2MB%2Fs%7CA004-260618%2001
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go2.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#4FreeIran-02fd013204
 hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E5%8D%97%E9%9D%9E_110221019%20t.me%2Frjsxrd
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@8a24f231-tmm5c0-tujecz-1qkeg.nw4.hyhuawei.com:443#%40happ_tmn
 hysteria2://a34f3990b69f44bfa0d32385@137.23.3.91:20000?obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385&sni=rmgyvpn.rest#Server
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4444?sni=bl1.nexfile.net#🇧🇾 Беларусь 2 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?sni=bl1.nexfile.net#🇧🇾 Беларусь 1 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?sni=pl1.nexfile.net#🇵🇱 Польша 9 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?sni=pl1.nexfile.net#🇵🇱 Польша 8 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?sni=pl2.nexfile.net#🇵🇱 Польша 1 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?sni=pl2.nexfile.net#🇵🇱 Польша 7 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?sni=pl3.nexfile.net#🇵🇱 Польша 3 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
@@ -302,17 +282,16 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.146:4444?sni=pl3.nex
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?sni=pl2.nexfile.net#🇵🇱 Польша 6 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?sni=pl2.nexfile.net#🇵🇱 Польша 5 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.71:4444?sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1PL_42%7C225KB%2Fs%7CM003-260806
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.80:4444?sni=pl3.nexfile.net#🇵🇱 Польша 7 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.80:4444?sni=pl3.nexfile.net#🇵🇱 Польша 1 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444?security=tls&insecure=0&sni=pl3.nexfile.net#%F0%9F%91%89%F0%9F%86%94%40Goodbaye_filtering%0A%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%20%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%0A%C2%AE%EF%B8%8FServ.host%20Group%20%0A%F0%9F%85%BF%EF%B8%8Fping%3A128ms%0A%E2%9A%A1UDP%20Fast-Path%20%7C%20HYSTERIA2%20IPv4
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@144.31.109.158:4444?sni=fl3.nexfile.net#101.%20%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%C2%B7%20hysteria2%20%C2%B7%20605ms%20%C2%B7%2027%D1%87
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@144.31.109.240:4444?sni=fl3.nexfile.net#%F0%9F%87%AB%F0%9F%87%AEFI_15%7C94KB%2Fs%7CM003-260806
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.19:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 12 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.19:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 9 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 14 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.47:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 13 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.47:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 5 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444?sni=lv2.nexfile.net#🇱🇻 Латвия 5 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=bl1.nexfile.net#11.%20%F0%9F%87%A7%F0%9F%87%BE%20%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C%20%C2%B7%20hysteria2%20%C2%B7%20516ms%20%C2%B7%2027%D1%87
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444?insecure=0&sni=fl3.nexfile.net#100.%20%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%C2%B7%20hysteria2%20%C2%B7%20568ms%20%C2%B7%2027%D1%87
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl3.nexfile.net#0071
 hysteria2://a81a7b45-dd70-42ef-822f-ef467f944382@153.56.210.134:38045?insecure=1&obfs=salamander&obfs-password=642516f2-f9bd-41ce-9904-dee699c39cf9&sni=www.bing.com#%F0%9F%87%B9%F0%9F%87%B7TR_6%7C2.7MB%2Fs%7CM003-260806
 hysteria2://adbd0a82-3336-11ed-bd7c-f23c913c8d2b@99ae88c3-tmm5c0-truoje-1uni.los.hyhuawei.com:443#133.%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%20hysteria2%20%C2%B7%20213ms%20%C2%B7%2017%D1%87
@@ -348,3 +327,24 @@ hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37186?insecure
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24048?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37066?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37075?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0064
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21000?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local&mport=21000-21199,33000-33199#0221
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21016?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0226
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21021?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2005
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21046?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0210
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21047?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0202
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21054?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-36
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21067?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2003
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21080?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0093
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21084?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-7
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21086?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-197
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21090?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%F0%9F%87%A8%F0%9F%87%ADCH_21%7C1.1MB%2Fs%7CB007-260618
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21113?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%F0%9F%87%A8%F0%9F%87%ADCH_35%7C4.6MB%2Fs%7CB007-260618
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21147?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0222
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21151?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-282
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21158?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-72
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21161?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-219
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21175?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0125
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21178?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0154
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33013?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-132
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33025?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0181
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33042?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-3
