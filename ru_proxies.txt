@@ -1,17 +1,7 @@
-hysteria2://1794082870%3A063fff3c-d6dd-43e3-b2fb-124785f13029%3A1AFR2jdtV3O5h9P33KpcvgfkSiFIqiXSuFxXwBcY3FY@212.41.8.76:36116?sni=us2.lumacache.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://1794082870%3A063fff3c-d6dd-43e3-b2fb-124785f13029%3ACTIsdSVtro0BDR9MTUEuiYpjN3F5BN169ytiJfmMR6c@212.41.8.76:36104?sni=gb2.lumacache.com&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://1794082870%3A063fff3c-d6dd-43e3-b2fb-124785f13029%3Ab3p2nL5JrfHoKJi4q7v_yIfCipsgduAtb9m1cdt0B-A@212.41.8.76:36114?sni=hu.lumacache.com&alpn=h3#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19453?sni=mshvpn.online#🇪🇪 Эстония Aktsiaselts WaveCom%20t.me%2Frjsxrd
-hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online&fp=firefox&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://4ec98327-3e7d-4eca-8485-92f22ef766d4@103.213.249.101:443?sni=ru.cdn.f0rtuna.fast#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1#🇳🇱
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#🇳🇱
 hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443?insecure=1&sni=hys34.wba-pn.ru#🇳🇱
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#LV
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443?insecure=1&sni=admin.wwwinternetvideo.click#%F0%9F%87%B5%F0%9F%87%B1PL_24%7C1.3MB%2Fs%7CA001-260618%2001
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go1.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#%F0%9F%87%B5%F0%9F%87%B1PL_29%7C1.2MB%2Fs%7CA004-260618%2001
 hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru#%23583%20%E2%9D%93%20%3F%3F%20%E2%86%92%20%F0%9F%87%A9%F0%9F%87%AA%20DE
-hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://zWqQKhzHQOeuIcQleiAC2Ld8j0eZSjZXEAgTKwGaP9c@84.252.100.138:2443?sni=de.vip-get.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk13.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=it-edge.gacvpn.site&pbk=8POqoppCCmjPFqoCsXzaH-kEdYTDXczdTUXxoGfKO0k&sid=44e85040332f54&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ@twichcom.plus-hit.ru:1080#%5BOpenRay%5D%20%F0%9F%8C%90XX-723
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ@twichcom.plus-hit.ru:1080#%5BOpenRay%5D%20%F0%9F%8C%90XX-713
