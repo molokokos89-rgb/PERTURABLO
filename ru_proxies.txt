@@ -8,7 +8,5 @@ hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?sni=hys26.wba-pn.ru#[✅]
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de3.shvpn.ru:4443?sni=de3.shvpn.ru#DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 hysteria2://d62s7ghfehm742us@derfderf.ru:12824?security=tls&sni=derfderf.ru#Iran
 hysteria2://oCYFcbOo8s@hys22.wba-pn.ru:443?sni=hys22.wba-pn.ru#[✅]
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443?insecure=1&sni=cabinet.wwwinternetvideo.click#%F0%9F%87%AA%F0%9F%87%AAEE_15%7C635KB%2Fs%7CA001-260618%2001
 hysteria2://wrSuBorIlf@hys9.wba-pn.ru:443?insecure=1#[✅]
-vmess://eyJhZGQiOiIxMjM0NjYucnUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNjAzMiIsInBzIjoiQEZhcmF6VjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#Telegram 👉🏼 @planB_net  • 07
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVHVya2V5LCBJc3RhbmJ1bCB8IFtCTF0iLCJhZGQiOiIxMjM0NjYucnUiLCJwb3J0IjoiMjYwMzIiLCJpZCI6IjgwNDMzNGUyLTA0Y2EtNDM0Yy04MzExLTNjY2VlODIxODE3NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
